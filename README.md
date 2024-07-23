@@ -1,4 +1,4 @@
-# To run a React Vite project from a GitHub clone, follow these steps:
+# To run a React Vite project , follow these steps:
 
 1. Open your terminal.
 2. Clone the project repository by running:
